@@ -1,4 +1,5 @@
-🎯 How to Test Systematically:
+How to Test Systematically:
+
 Step 1: Upload this new code
 
 Step 2: Open Serial Monitor via screen
