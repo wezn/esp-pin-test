@@ -1,7 +1,10 @@
 🎯 How to Test Systematically:
 Step 1: Upload this new code
+
 Step 2: Open Serial Monitor via screen
+
 Step 3: You'll see all pins listed like:
+
 Pin  1: 🔵 HIGH (touch to GND)
 Pin  2: 🔵 HIGH (touch to GND) 
 Pin  3: 🔵 HIGH (touch to GND)
