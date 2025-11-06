@@ -6,10 +6,15 @@ Step 2: Open Serial Monitor via screen
 Step 3: You'll see all pins listed like:
 
 Pin  1: 🔵 HIGH (touch to GND)
+
 Pin  2: 🔵 HIGH (touch to GND) 
+
 Pin  3: 🔵 HIGH (touch to GND)
+
 ...
+
 Step 4: Test Method:
+
 
     Look for pins showing 🔵 HIGH
 
@@ -20,5 +25,6 @@ Step 4: Test Method:
     If it changes to 🔴 LOW = WORKING PIN!
 
     If stays 🔵 HIGH = BROKEN PIN
+
 
 Step 5: Keep track of working pins
